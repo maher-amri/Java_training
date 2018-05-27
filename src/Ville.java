@@ -5,4 +5,6 @@ public class Ville {
 	int nbr;
 	String nomPays;
 	
+	
+	
 }
